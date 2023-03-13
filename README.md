@@ -12,4 +12,4 @@ I am a Python Developer fom Poland!
 <img align="left" alt="Django" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <br>
 
-![Codewars](https://github.r2v.ch/codewars?user=MateuszEzil&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=MateuszEzil&stroke=%23BB432C&hide_clan=true&top_languages=true)
